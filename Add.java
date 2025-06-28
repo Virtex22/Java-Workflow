@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Add{
   public static void main(String[] args){
     int num1=4;
